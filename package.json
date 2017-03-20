@@ -1,0 +1,16 @@
+{
+  "name": "react-karma-mocha-chai-sinon-example",
+  "version": "1.0.0",
+  "description": "Configuration of Webpack with React, Karma, Mocha, Chai, Sinon, Sinon-Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dominik Broj",
+  "license": "MIT",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.3"
+  }
+}
